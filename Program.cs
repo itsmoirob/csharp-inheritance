@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 
 namespace Inheritance
 {
@@ -8,7 +9,7 @@ namespace Inheritance
     static void Main(string[] args)
     {
       Console.WriteLine("Hello World!");
-      var car = new Car();
+
     }
   }
 }
